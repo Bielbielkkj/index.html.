@@ -1,11 +1,27 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
+     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>CORITIBA MAIOR DO SUL</title>
+    <link rel="stylesheet" href="">
 </head>
+
 <body>
+   <header>
+       <nav>
+    <a href="index.html"> home </a>
+<a href="produtos.html"> produtos </a>
+        <a href="https:https://www.youtube.com/watch?v=KDVfcUyOJlw"> tour pelo couto pereira </a>
+        </nav>
+  <p class="coritiba"> CORITIBA<em> FUTEBOL CLUB</em> </p>
+<p class="brilho"> parágrafo 2 conteúdo escrito CADA PARÁGRAFO DEVE SER ABERTO E FECHADO</p>
+    
+    <h2> TÍTULO DOIS </h2>
+<p> parágrafo 3 conteúdo escrito NÃO ESQUECER DE SEMPRE DEIXAR OS MARCADORES H1 E P DENTRO DO BODY, OU SEJA, ACIMA DO SEU FECHAMENTO E ABAIXO DA SUA ABERTURA </p>
+<p> <strong> parágrafo 4 com conteúdo escrito em negrito, SE QUISER PODE SER APENAS UMA FRASE OU PALAVRA EM NEGRITO </strong> </p>
+    
     <h1>coritiba futebol club</h1>
     <ul>
         <li> 
